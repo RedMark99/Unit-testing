@@ -1,0 +1,10 @@
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\bin\Debug\DEQueue.Runner.exe.config
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\bin\Debug\DEQueue.Runner.exe
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\bin\Debug\DEQueue.Runner.pdb
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\obj\Debug\DEQueue.Runner.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\obj\Debug\DEQueue.Runner.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\obj\Debug\DEQueue.Runner.csproj.CopyComplete
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\obj\Debug\DEQueue.Runner.exe
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\obj\Debug\DEQueue.Runner.pdb
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\bin\Debug\DEQueue.dll
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue.Runner\bin\Debug\DEQueue.pdb

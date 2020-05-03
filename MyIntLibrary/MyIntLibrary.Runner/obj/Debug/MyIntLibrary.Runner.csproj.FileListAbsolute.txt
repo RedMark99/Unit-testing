@@ -1,0 +1,10 @@
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\bin\Debug\MyIntLibrary.Runner.exe.config
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\bin\Debug\MyIntLibrary.Runner.exe
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\bin\Debug\MyIntLibrary.Runner.pdb
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\bin\Debug\MyIntLibrary.dll
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\bin\Debug\MyIntLibrary.pdb
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\obj\Debug\MyIntLibrary.Runner.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\obj\Debug\MyIntLibrary.Runner.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\obj\Debug\MyIntLibrary.Runner.csproj.CopyComplete
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\obj\Debug\MyIntLibrary.Runner.exe
+C:\Users\Mark\source\repos\MyIntLibrary\MyIntLibrary.Runner\obj\Debug\MyIntLibrary.Runner.pdb

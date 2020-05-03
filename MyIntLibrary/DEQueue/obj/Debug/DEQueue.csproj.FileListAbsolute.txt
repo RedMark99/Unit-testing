@@ -1,0 +1,6 @@
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue\bin\Debug\DEQueue.dll
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue\bin\Debug\DEQueue.pdb
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue\obj\Debug\DEQueue.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue\obj\Debug\DEQueue.dll
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue\obj\Debug\DEQueue.pdb
+C:\Users\Mark\source\repos\MyIntLibrary\DEQueue\obj\Debug\DEQueue.csprojAssemblyReference.cache
